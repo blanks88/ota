@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586286941533</updated>
-      <workItem from="1586286944157" duration="2286000" />
+      <workItem from="1586286944157" duration="2323000" />
     </task>
     <task id="LOCAL-00001" summary="#fix :url address">
       <created>1586289517267</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586290133072</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="#fix share image!">
+      <created>1586290398861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586290398861</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,13 +83,14 @@
     <MESSAGE value="#fix :url address" />
     <MESSAGE value="#fix link to iOS installation action" />
     <MESSAGE value="#fix ipa url &amp; app images to display" />
-    <option name="LAST_COMMIT_MESSAGE" value="#fix ipa url &amp; app images to display" />
+    <MESSAGE value="#fix share image!" />
+    <option name="LAST_COMMIT_MESSAGE" value="#fix share image!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="40" key="CommitChangelistDialog2" timestamp="1586290388166">
+    <state x="421" y="40" key="CommitChangelistDialog2" timestamp="1586290398727">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="40" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586290388166" />
+    <state x="421" y="40" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586290398727" />
     <state x="440" y="261" key="Vcs.Push.Dialog.v2" timestamp="1586290138191">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
