@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2211577-2688-44be-a9b2-bb0f44f25174" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/tali-app.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tali/ipa/manifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/tali/ipa/manifest.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586286941533</updated>
-      <workItem from="1586286944157" duration="2018000" />
+      <workItem from="1586286944157" duration="2286000" />
     </task>
     <task id="LOCAL-00001" summary="#fix :url address">
       <created>1586289517267</created>
@@ -60,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586289736140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="#fix ipa url &amp; app images to display">
+      <created>1586290133072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586290133072</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,17 +75,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#fix :url address" />
     <MESSAGE value="#fix link to iOS installation action" />
-    <option name="LAST_COMMIT_MESSAGE" value="#fix link to iOS installation action" />
+    <MESSAGE value="#fix ipa url &amp; app images to display" />
+    <option name="LAST_COMMIT_MESSAGE" value="#fix ipa url &amp; app images to display" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="40" key="CommitChangelistDialog2" timestamp="1586289736009">
+    <state x="421" y="40" key="CommitChangelistDialog2" timestamp="1586290388166">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="40" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586289736009" />
-    <state x="440" y="261" key="Vcs.Push.Dialog.v2" timestamp="1586289738709">
+    <state x="421" y="40" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586290388166" />
+    <state x="440" y="261" key="Vcs.Push.Dialog.v2" timestamp="1586290138191">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="261" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586289738709" />
+    <state x="440" y="261" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586290138191" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1586290018226">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
