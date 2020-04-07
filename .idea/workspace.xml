@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2211577-2688-44be-a9b2-bb0f44f25174" name="Default Changelist" comment="#fix :url address">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c2211577-2688-44be-a9b2-bb0f44f25174" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/tali-app.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tali/ipa/manifest.plist" beforeDir="false" afterPath="$PROJECT_DIR$/tali/ipa/manifest.plist" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +25,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tali/ipa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/tali/ipa" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -43,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586286941533</updated>
-      <workItem from="1586286944157" duration="1708000" />
+      <workItem from="1586286944157" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="#fix :url address">
       <created>1586289517267</created>
@@ -52,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586289517267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#fix link to iOS installation action">
+      <created>1586289736140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586289736140</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,16 +68,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#fix :url address" />
-    <option name="LAST_COMMIT_MESSAGE" value="#fix :url address" />
+    <MESSAGE value="#fix link to iOS installation action" />
+    <option name="LAST_COMMIT_MESSAGE" value="#fix link to iOS installation action" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="40" key="CommitChangelistDialog2" timestamp="1586289707814">
+    <state x="421" y="40" key="CommitChangelistDialog2" timestamp="1586289736009">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="40" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586289707814" />
-    <state x="440" y="261" key="Vcs.Push.Dialog.v2" timestamp="1586289525841">
+    <state x="421" y="40" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586289736009" />
+    <state x="440" y="261" key="Vcs.Push.Dialog.v2" timestamp="1586289738709">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="261" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586289525841" />
+    <state x="440" y="261" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586289738709" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1586290018226">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1586290018226" />
   </component>
 </project>
