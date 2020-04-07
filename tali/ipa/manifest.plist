@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://itia.mx</string>
+					<string>https://manolo07.github.io/ota/</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://itia.mx/OTA/tali/ipa/latest.ipa</string>
+					<string>https://manolo07.github.io/ota/tali/ipa/latest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://itia.mx</string>
+					<string>https://manolo07.github.io/ota/</string>
 				</dict>
 			</array>
 			<key>metadata</key>
